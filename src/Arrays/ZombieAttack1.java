@@ -20,6 +20,7 @@ public class ZombieAttack1 {
             }
             counter++;
 
+
         }while (totalOfAll!=0);
         System.out.println("---- EXTINCT ----");
 
