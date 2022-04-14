@@ -19,7 +19,7 @@ public class SimpleCalculator {
         System.out.println("result: "+ (num1+num2));
 
 
-
+inp.close();
 
     }
 }
