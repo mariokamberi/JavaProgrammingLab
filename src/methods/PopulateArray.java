@@ -10,7 +10,6 @@ public class PopulateArray {
             r[i]=i+1;
         }
         return r;
-
     }
 
     public static void main(String[] args) 	{
