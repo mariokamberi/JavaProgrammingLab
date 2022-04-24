@@ -21,8 +21,6 @@ public class SimplePrintPattern {
 
 
 
-
-
     public static void main(String[] args) {
         printHollowRect();
     }
