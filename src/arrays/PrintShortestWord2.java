@@ -58,7 +58,6 @@ public class PrintShortestWord2 {
         System.out.println(Arrays.toString(newWords));
 
 
-
     }
 }
 /*
